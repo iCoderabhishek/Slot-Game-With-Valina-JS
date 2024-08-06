@@ -67,32 +67,21 @@ To get started with the Slot Machine Game, follow these steps:
 1. **Deposit Money:**
    - Enter the amount you want to start with. The game will prompt you until a valid amount is entered.
 
-   ![Deposit Money](./images/deposit-money.png)
-
 2. **Choose Lines to Bet On:**
    - Enter a number between 1 and 3 to select how many lines you want to bet on.
-
-   ![Choose Lines](./images/choose-lines.png)
 
 3. **Place Your Bet:**
    - Enter the bet amount for each line. Ensure your bet doesn't exceed your balance divided by the number of lines.
 
-   ![Place Bet](./images/place-bet.png)
-
 4. **Spin the Slot Machine:**
    - Watch as the reels spin and the symbols align.
-
-   ![Spin Reels](./images/spin-reels.png)
 
 5. **Check Winnings:**
    - If you have a winning line, your winnings are calculated and added to your balance.
 
-   ![Check Winnings](./images/check-winnings.png)
-
 6. **Play Again:**
    - Decide if you want to play another round or cash out.
 
-   ![Play Again](./images/play-again.png)
 
 ## Symbol Values
 
